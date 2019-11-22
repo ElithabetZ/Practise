@@ -1,0 +1,11 @@
+{
+     "name": "Eli",
+     "age": 19,
+     "sex" : "female",
+     "phone": ["+375449870865", "+37529768543"],
+     "email": {
+         "gmal": "eliorl@gmail.com",
+         "yahoo":"eliorl@yahoo.com"
+     }
+
+ }
